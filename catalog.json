@@ -4,17 +4,247 @@
     {
       "id": "christmas",
       "title": "Christmas Nails",
-      "folder": "Christmas nail Collection"
+      "folder": "Christmas nail Collection",
+      "artworks": [
+        {
+          "id": "christmas_candlelit",
+          "title": "Candlelit Christmas",
+          "file": "Candlelit Christmas.webp"
+        },
+        {
+          "id": "christmas_candy_cane_red",
+          "title": "Candy Cane Red",
+          "file": "Candy Cane Red.webp"
+        },
+        {
+          "id": "christmas_champagne",
+          "title": "Champagne Christmas",
+          "file": "Champagne Christmas.webp"
+        },
+        {
+          "id": "christmas_gifts",
+          "title": "Christmas Gifts",
+          "file": "Christmas Gifts.webp"
+        },
+        {
+          "id": "christmas_stars",
+          "title": "Christmas Stars",
+          "file": "Christmas Stars.webp"
+        },
+        {
+          "id": "christmas_classic",
+          "title": "Classic Christmas",
+          "file": "Classic Christmas.webp"
+        },
+        {
+          "id": "christmas_cozy_sweater",
+          "title": "Cozy Christmas Sweater",
+          "file": "Cozy Christmas Sweater.webp"
+        },
+        {
+          "id": "christmas_crystal",
+          "title": "Crystal Christmas",
+          "file": "Crystal Christmas.webp"
+        },
+        {
+          "id": "christmas_cute_snowman",
+          "title": "Cute Snowman",
+          "file": "Cute Snowman.webp"
+        },
+        {
+          "id": "christmas_emerald_gold",
+          "title": "Emerald & Gold",
+          "file": "Emerald & Gold.webp"
+        },
+        {
+          "id": "christmas_evergreen_luxury",
+          "title": "Evergreen Luxury",
+          "file": "Evergreen Luxury.webp"
+        },
+        {
+          "id": "christmas_frosted_winter",
+          "title": "Frosted Winter",
+          "file": "Frosted Winter.webp"
+        },
+        {
+          "id": "christmas_gingerbread_glam",
+          "title": "Gingerbread Glam",
+          "file": "Gingerbread Glam.webp"
+        },
+        {
+          "id": "christmas_golden_bells",
+          "title": "Golden Bells",
+          "file": "Golden Bells.webp"
+        },
+        {
+          "id": "christmas_holiday_party_glam",
+          "title": "Holiday Party Glam",
+          "file": "Holiday Party Glam.webp"
+        },
+        {
+          "id": "christmas_midnight",
+          "title": "Midnight Christmas",
+          "file": "Midnight Christmas.webp"
+        },
+        {
+          "id": "christmas_peppermint",
+          "title": "Peppermint Candy",
+          "file": "Peppermint Candy.webp"
+        },
+        {
+          "id": "christmas_red_velvet_gold",
+          "title": "Red Velvet & Gold",
+          "file": "Red Velvet & Gold.webp"
+        },
+        {
+          "id": "christmas_reindeer_romance",
+          "title": "Reindeer Romance",
+          "file": "Reindeer Romance.webp"
+        },
+        {
+          "id": "christmas_royal",
+          "title": "Royal Christmas",
+          "file": "Royal Christmas.webp"
+        },
+        {
+          "id": "christmas_ruby",
+          "title": "Ruby Christmas",
+          "file": "Ruby Christmas.webp"
+        },
+        {
+          "id": "christmas_santa_glam",
+          "title": "Santa Glam",
+          "file": "Santa Glam.webp"
+        },
+        {
+          "id": "christmas_white_christmas_saint",
+          "title": "White Christmas Saint",
+          "file": "White Christmas saint.webp"
+        },
+        {
+          "id": "christmas_white_christmas",
+          "title": "White Christmas",
+          "file": "White Christmas.webp"
+        },
+        {
+          "id": "christmas_winter_snowflakes",
+          "title": "Winter Snowflakes",
+          "file": "Winter Snowflakes.webp"
+        }
+      ]
     },
     {
       "id": "halloween",
       "title": "Halloween Nails",
-      "folder": "Halloween Nails"
+      "folder": "Halloween Nails",
+      "artworks": [
+        {
+          "id": "halloween_autumn",
+          "title": "Autumn Halloween",
+          "file": "Autumn Halloween.webp"
+        },
+        {
+          "id": "halloween_elegant_dark",
+          "title": "Elegant Dark Halloween Nails",
+          "file": "Elegant Dark Halloween Nails.webp"
+        },
+        {
+          "id": "halloween_glamorous_ghost",
+          "title": "Glamorous Halloween Ghost Nail Art",
+          "file": "Glamorous Halloween Ghost Nail Art.webp"
+        },
+        {
+          "id": "halloween_glamorous_nail_art",
+          "title": "Glamorous Halloween Nail Art",
+          "file": "Glamorous Halloween Nail Art.webp"
+        },
+        {
+          "id": "halloween_glamorous_nail_art_ad",
+          "title": "Glamorous Halloween Nail Art Ad",
+          "file": "Glamorous Halloween Nail Art Ad.webp"
+        },
+        {
+          "id": "halloween_glamorous_nail_art_showcase",
+          "title": "Glamorous Halloween Nail Art Showcase",
+          "file": "Glamorous Halloween Nail Art Showcase.webp"
+        },
+        {
+          "id": "halloween_gothic_gold_elegance",
+          "title": "Gothic Gold Halloween Nail Elegance",
+          "file": "Gothic Gold Halloween Nail Elegance.webp"
+        },
+        {
+          "id": "halloween_gothic_elegance",
+          "title": "Gothic Halloween Nail Elegance",
+          "file": "Gothic Halloween Nail Elegance.webp"
+        },
+        {
+          "id": "halloween_gothic_nailora",
+          "title": "Gothic Halloween Nailora",
+          "file": "Gothic Halloween Nailora.webp"
+        },
+        {
+          "id": "halloween_gothic",
+          "title": "Gothic Halloween",
+          "file": "Gothic Halloween.webp"
+        },
+        {
+          "id": "halloween_gothic_moonlit",
+          "title": "Gothic Moonlit Halloween",
+          "file": "Gothic Moonlit Halloween.webp"
+        },
+        {
+          "id": "halloween_gothic_vampire_glam",
+          "title": "Gothic Vampire Glam Nail Art",
+          "file": "Gothic Vampire Glam Nail Art.webp"
+        },
+        {
+          "id": "halloween_haunted",
+          "title": "Haunted Halloween Nail Art",
+          "file": "Haunted Halloween Nail Art.webp"
+        },
+        {
+          "id": "halloween_mystical_purple",
+          "title": "Mystical Purple Halloween Nails",
+          "file": "Mystical Purple Halloween Nails.webp"
+        },
+        {
+          "id": "halloween_neon_witchcraft",
+          "title": "Neon Witchcraft Halloween Nails",
+          "file": "Neon Witchcraft Halloween Nails.webp"
+        },
+        {
+          "id": "halloween_spooky_advertisement",
+          "title": "Spooky Halloween Nail Art Advertisement",
+          "file": "Spooky Halloween Nail Art Advertisement.webp"
+        },
+        {
+          "id": "halloween_spooky_editorial",
+          "title": "Spooky Halloween Nail Art Editorial",
+          "file": "Spooky Halloween Nail Art Editorial.webp"
+        },
+        {
+          "id": "halloween_spooky",
+          "title": "Spooky Halloween Nail Art",
+          "file": "Spooky Halloween Nail Art.webp"
+        },
+        {
+          "id": "halloween_spooky_chic",
+          "title": "Spooky-Chic Halloween Nail Art",
+          "file": "Spooky-Chic Halloween Nail Art.webp"
+        },
+        {
+          "id": "halloween_vampire_chrome",
+          "title": "Vampire Chrome Halloween",
+          "file": "Vampire Chrome Halloween.webp"
+        }
+      ]
     },
     {
       "id": "thanksgiving",
       "title": "Thanksgiving Nails",
-      "folder": "Thanksgiving Nails"
+      "folder": "Thanksgiving Nails",
+      "artworks": []
     }
   ]
 }
