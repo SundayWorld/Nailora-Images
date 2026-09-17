@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "christmas",
+      "title": "Christmas Nails",
+      "folder": "Christmas nail Collection"
+    },
+    {
+      "id": "halloween",
+      "title": "Halloween Nails",
+      "folder": "Halloween Nails"
+    },
+    {
+      "id": "thanksgiving",
+      "title": "Thanksgiving Nails",
+      "folder": "Thanksgiving Nails"
+    }
+  ]
+}
