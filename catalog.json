@@ -1,250 +1,1301 @@
 {
-  "version": 1,
+  "version": 2,
   "collections": [
+    {
+      "id": "back_to_work_nails",
+      "title": "Back-to-Work Nails",
+      "folder": "Career & Milestones/Back-to-Work Nails",
+      "artworks": [
+        {
+          "id": "back_to_work_nails_boardroom_elegance",
+          "title": "│   │       Boardroom Elegance",
+          "file": "│   │       Boardroom Elegance.webp"
+        },
+        {
+          "id": "back_to_work_nails_career_woman_luxe",
+          "title": "│   │       Career Woman Luxe",
+          "file": "│   │       Career Woman Luxe.webp"
+        },
+        {
+          "id": "back_to_work_nails_coffeehouse_luxe_manicure",
+          "title": "│   │       Coffeehouse Luxe Manicure",
+          "file": "│   │       Coffeehouse Luxe Manicure.webp"
+        },
+        {
+          "id": "back_to_work_nails_corporate_chrome",
+          "title": "│   │       Corporate Chrome",
+          "file": "│   │       Corporate Chrome.webp"
+        },
+        {
+          "id": "back_to_work_nails_effortless_office_chic",
+          "title": "│   │       Effortless Office Chic",
+          "file": "│   │       Effortless Office Chic.webp"
+        },
+        {
+          "id": "back_to_work_nails_executive_minimalist",
+          "title": "│   │       Executive Minimalist",
+          "file": "│   │       Executive Minimalist.webp"
+        },
+        {
+          "id": "back_to_work_nails_modern_workspace",
+          "title": "│   │       Modern Workspace",
+          "file": "│   │       Modern Workspace.webp"
+        },
+        {
+          "id": "back_to_work_nails_polished_professional",
+          "title": "│   │       Polished Professional",
+          "file": "│   │       Polished Professional.webp"
+        },
+        {
+          "id": "back_to_work_nails_power_suit",
+          "title": "│   │       Power Suit",
+          "file": "│   │       Power Suit.webp"
+        },
+        {
+          "id": "back_to_work_nails_quiet_luxury_manicure",
+          "title": "│   │       Quiet Luxury Manicure",
+          "file": "│   │       Quiet Luxury Manicure.webp"
+        },
+        {
+          "id": "back_to_work_nails_quiet_luxury",
+          "title": "│   │       Quiet Luxury",
+          "file": "│   │       Quiet Luxury.webp"
+        }
+      ]
+    },
+    {
+      "id": "graduation_nails",
+      "title": "Graduation Nails",
+      "folder": "Career & Milestones/Graduation Nails",
+      "artworks": [
+        {
+          "id": "graduation_nails_cap_and_gown_luxe",
+          "title": "│           Cap & Gown Luxe",
+          "file": "│           Cap & Gown Luxe.webp"
+        },
+        {
+          "id": "graduation_nails_chatgpt_image_sep_19_2026_10_06_13_am",
+          "title": "│           ChatGPT Image Sep 19, 2026, 10_06_13 AM",
+          "file": "│           ChatGPT Image Sep 19, 2026, 10_06_13 AM.webp"
+        },
+        {
+          "id": "graduation_nails_cheers_to_success",
+          "title": "│           Cheers to Success",
+          "file": "│           Cheers to Success.webp"
+        },
+        {
+          "id": "graduation_nails_class_of_elegance",
+          "title": "│           Class of Elegance",
+          "file": "│           Class of Elegance.webp"
+        },
+        {
+          "id": "graduation_nails_dreams_in_bloom",
+          "title": "│           Dreams in Bloom",
+          "file": "│           Dreams in Bloom.webp"
+        },
+        {
+          "id": "graduation_nails_future_bound_luxury_graduation",
+          "title": "│           Future Bound Luxury Graduation",
+          "file": "│           Future Bound Luxury Graduation.webp"
+        },
+        {
+          "id": "graduation_nails_golden_achievement",
+          "title": "│           Golden Achievement",
+          "file": "│           Golden Achievement.webp"
+        },
+        {
+          "id": "graduation_nails_graduate_glam",
+          "title": "│           Graduate Glam",
+          "file": "│           Graduate Glam.webp"
+        },
+        {
+          "id": "graduation_nails_honors_and_elegance",
+          "title": "│           Honors & Elegance",
+          "file": "│           Honors & Elegance.webp"
+        },
+        {
+          "id": "graduation_nails_next_chapter",
+          "title": "│           Next Chapter",
+          "file": "│           Next Chapter.webp"
+        },
+        {
+          "id": "graduation_nails_queen_of_the_class",
+          "title": "│           Queen of the Class",
+          "file": "│           Queen of the Class.webp"
+        }
+      ]
+    },
+    {
+      "id": "faith_christian_nails",
+      "title": "Christian Nails",
+      "folder": "FAITH & CULTURE/Faith/Christian Nails",
+      "artworks": [
+        {
+          "id": "faith_christian_nails_blessed_and_blooming",
+          "title": "│       │       Blessed & Blooming",
+          "file": "│       │       Blessed & Blooming.webp"
+        },
+        {
+          "id": "faith_christian_nails_cross_of_grace",
+          "title": "│       │       Cross of Grace",
+          "file": "│       │       Cross of Grace.webp"
+        },
+        {
+          "id": "faith_christian_nails_crown_of_glory",
+          "title": "│       │       Crown of Glory",
+          "file": "│       │       Crown of Glory.webp"
+        },
+        {
+          "id": "faith_christian_nails_faith_and_peace",
+          "title": "│       │       Faith & Peace",
+          "file": "│       │       Faith & Peace.webp"
+        },
+        {
+          "id": "faith_christian_nails_grace_upon_grace",
+          "title": "│       │       Grace Upon Grace",
+          "file": "│       │       Grace Upon Grace.webp"
+        },
+        {
+          "id": "faith_christian_nails_heavenly_light",
+          "title": "│       │       Heavenly Light",
+          "file": "│       │       Heavenly Light.webp"
+        },
+        {
+          "id": "faith_christian_nails_kingdom_glory_luxe",
+          "title": "│       │       Kingdom Glory Luxe",
+          "file": "│       │       Kingdom Glory Luxe.webp"
+        },
+        {
+          "id": "faith_christian_nails_redeemed_in_love",
+          "title": "│       │       Redeemed in Love",
+          "file": "│       │       Redeemed in Love.webp"
+        },
+        {
+          "id": "faith_christian_nails_walk_by_faith",
+          "title": "│       │       Walk by Faith",
+          "file": "│       │       Walk by Faith.webp"
+        },
+        {
+          "id": "faith_christian_nails_word_of_faith",
+          "title": "│       │       Word of Faith",
+          "file": "│       │       Word of Faith.webp"
+        }
+      ]
+    },
+    {
+      "id": "faith_islamic_nails",
+      "title": "Islamic Nails",
+      "folder": "FAITH & CULTURE/Faith/Islamic Nails",
+      "artworks": [
+        {
+          "id": "faith_islamic_nails_arabesque_gold",
+          "title": "│               Arabesque Gold",
+          "file": "│               Arabesque Gold.webp"
+        },
+        {
+          "id": "faith_islamic_nails_crescent_moon_luxe",
+          "title": "│               Crescent Moon Luxe",
+          "file": "│               Crescent Moon Luxe.webp"
+        },
+        {
+          "id": "faith_islamic_nails_eid_blossom",
+          "title": "│               Eid Blossom",
+          "file": "│               Eid Blossom.webp"
+        },
+        {
+          "id": "faith_islamic_nails_eid_jewel_box",
+          "title": "│               Eid Jewel Box",
+          "file": "│               Eid Jewel Box.webp"
+        },
+        {
+          "id": "faith_islamic_nails_eid_moonlight",
+          "title": "│               Eid Moonlight",
+          "file": "│               Eid Moonlight.webp"
+        },
+        {
+          "id": "faith_islamic_nails_eid_royal_glam",
+          "title": "│               Eid Royal Glam",
+          "file": "│               Eid Royal Glam.webp"
+        },
+        {
+          "id": "faith_islamic_nails_eid_starry_night",
+          "title": "│               Eid Starry Night",
+          "file": "│               Eid Starry Night.webp"
+        },
+        {
+          "id": "faith_islamic_nails_emerald_eid_elegance",
+          "title": "│               Emerald Eid Elegance",
+          "file": "│               Emerald Eid Elegance.webp"
+        },
+        {
+          "id": "faith_islamic_nails_mosque_silhouette_luxe",
+          "title": "│               Mosque Silhouette Luxe",
+          "file": "│               Mosque Silhouette Luxe.webp"
+        },
+        {
+          "id": "faith_islamic_nails_ramadan_garden",
+          "title": "│               Ramadan Garden",
+          "file": "│               Ramadan Garden.webp"
+        }
+      ]
+    },
+    {
+      "id": "father_s_day_nails",
+      "title": "Father's Day Nails",
+      "folder": "Family & Appreciation/Father's Day Nails",
+      "artworks": [
+        {
+          "id": "father_s_day_nails_classic_timepiece_father_s_day_nail",
+          "title": "│   │       Classic Timepiece Father’s Day Nail",
+          "file": "│   │       Classic Timepiece Father’s Day Nail.webp"
+        },
+        {
+          "id": "father_s_day_nails_father_s_compass_nail_art_in_navy_and_gold",
+          "title": "│   │       Father’s Compass Nail Art in Navy and Gold",
+          "file": "│   │       Father’s Compass Nail Art in Navy and Gold.webp"
+        },
+        {
+          "id": "father_s_day_nails_father_s_day_legacy_nail_set",
+          "title": "│   │       Father’s Day Legacy Nail Set",
+          "file": "│   │       Father’s Day Legacy Nail Set.webp"
+        },
+        {
+          "id": "father_s_day_nails_leather_and_luxe_father_s_day",
+          "title": "│   │       Leather & Luxe Father’s Day",
+          "file": "│   │       Leather & Luxe Father’s Day.webp"
+        },
+        {
+          "id": "father_s_day_nails_legacy_luxe_father_s_day_nail",
+          "title": "│   │       Legacy Luxe Father’s Day Nail",
+          "file": "│   │       Legacy Luxe Father’s Day Nail.webp"
+        },
+        {
+          "id": "father_s_day_nails_luxury_executive_drive_father_s_day_nails",
+          "title": "│   │       Luxury Executive Drive Father’s Day Nails",
+          "file": "│   │       Luxury Executive Drive Father’s Day Nails.webp"
+        },
+        {
+          "id": "father_s_day_nails_midnight_gentleman_nailora",
+          "title": "│   │       Midnight Gentleman Nailora",
+          "file": "│   │       Midnight Gentleman Nailora.webp"
+        },
+        {
+          "id": "father_s_day_nails_modern_gentleman_timeless_character",
+          "title": "│   │       Modern Gentleman Timeless Character",
+          "file": "│   │       Modern Gentleman Timeless Character.webp"
+        },
+        {
+          "id": "father_s_day_nails_old_money_classic_nail_art_still_life",
+          "title": "│   │       Old Money Classic Nail Art Still Life",
+          "file": "│   │       Old Money Classic Nail Art Still Life.webp"
+        },
+        {
+          "id": "father_s_day_nails_whiskey_and_wood_father_s_day_nails",
+          "title": "│   │       Whiskey & Wood Father’s Day Nails",
+          "file": "│   │       Whiskey & Wood Father’s Day Nails.webp"
+        }
+      ]
+    },
+    {
+      "id": "mother_s_day_nails",
+      "title": "Mother's Day Nails",
+      "folder": "Family & Appreciation/Mother's Day Nails",
+      "artworks": [
+        {
+          "id": "mother_s_day_nails_botanical_motherhood_nail",
+          "title": "│           Botanical Motherhood Nail",
+          "file": "│           Botanical Motherhood Nail.webp"
+        },
+        {
+          "id": "mother_s_day_nails_butterfly_mother_s_day_nail",
+          "title": "│           Butterfly Mother’s Day Nail",
+          "file": "│           Butterfly Mother’s Day Nail.webp"
+        },
+        {
+          "id": "mother_s_day_nails_forever_mom_luxe_nail",
+          "title": "│           Forever Mom Luxe Nail",
+          "file": "│           Forever Mom Luxe Nail.webp"
+        },
+        {
+          "id": "mother_s_day_nails_mom_s_ribbon_romance",
+          "title": "│           Mom’s Ribbon Romance",
+          "file": "│           Mom’s Ribbon Romance.webp"
+        },
+        {
+          "id": "mother_s_day_nails_mother_daughter_love_nail_art",
+          "title": "│           Mother–Daughter Love Nail Art",
+          "file": "│           Mother–Daughter Love Nail Art.webp"
+        },
+        {
+          "id": "mother_s_day_nails_mother_s_day_bloom_nail",
+          "title": "│           Mother’s Day Bloom Nail",
+          "file": "│           Mother’s Day Bloom Nail.webp"
+        },
+        {
+          "id": "mother_s_day_nails_mother_s_day_pearl_elegance",
+          "title": "│           Mother’s Day Pearl Elegance",
+          "file": "│           Mother’s Day Pearl Elegance.webp"
+        },
+        {
+          "id": "mother_s_day_nails_mother_s_garden_floral_nail",
+          "title": "│           Mother’s Garden Floral Nail",
+          "file": "│           Mother’s Garden Floral Nail.webp"
+        },
+        {
+          "id": "mother_s_day_nails_queen_mom_luxe_nail_art",
+          "title": "│           Queen Mom Luxe Nail Art",
+          "file": "│           Queen Mom Luxe Nail Art.webp"
+        },
+        {
+          "id": "mother_s_day_nails_rose_for_mom_luxurious_floral_nail",
+          "title": "│           Rose for Mom Luxurious Floral Nail",
+          "file": "│           Rose for Mom Luxurious Floral Nail.webp"
+        }
+      ]
+    },
     {
       "id": "christmas",
       "title": "Christmas Nails",
-      "folder": "Christmas nail Collection",
+      "folder": "Festive/Christmas Nails",
       "artworks": [
         {
-          "id": "christmas_candlelit",
-          "title": "Candlelit Christmas",
-          "file": "Candlelit Christmas.webp"
+          "id": "christmas_candlelit_christmas",
+          "title": "│   │       Candlelit Christmas",
+          "file": "│   │       Candlelit Christmas.webp"
         },
         {
           "id": "christmas_candy_cane_red",
-          "title": "Candy Cane Red",
-          "file": "Candy Cane Red.webp"
+          "title": "│   │       Candy Cane Red",
+          "file": "│   │       Candy Cane Red.webp"
         },
         {
-          "id": "christmas_champagne",
-          "title": "Champagne Christmas",
-          "file": "Champagne Christmas.webp"
+          "id": "christmas_champagne_christmas",
+          "title": "│   │       Champagne Christmas",
+          "file": "│   │       Champagne Christmas.webp"
         },
         {
-          "id": "christmas_gifts",
-          "title": "Christmas Gifts",
-          "file": "Christmas Gifts.webp"
+          "id": "christmas_christmas_gifts",
+          "title": "│   │       Christmas Gifts",
+          "file": "│   │       Christmas Gifts.webp"
         },
         {
-          "id": "christmas_stars",
-          "title": "Christmas Stars",
-          "file": "Christmas Stars.webp"
+          "id": "christmas_christmas_stars",
+          "title": "│   │       Christmas Stars",
+          "file": "│   │       Christmas Stars.webp"
         },
         {
-          "id": "christmas_classic",
-          "title": "Classic Christmas",
-          "file": "Classic Christmas.webp"
+          "id": "christmas_classic_christmas",
+          "title": "│   │       Classic Christmas",
+          "file": "│   │       Classic Christmas.webp"
         },
         {
-          "id": "christmas_cozy_sweater",
-          "title": "Cozy Christmas Sweater",
-          "file": "Cozy Christmas Sweater.webp"
+          "id": "christmas_cozy_christmas_sweater",
+          "title": "│   │       Cozy Christmas Sweater",
+          "file": "│   │       Cozy Christmas Sweater.webp"
         },
         {
-          "id": "christmas_crystal",
-          "title": "Crystal Christmas",
-          "file": "Crystal Christmas.webp"
+          "id": "christmas_crystal_christmas",
+          "title": "│   │       Crystal Christmas",
+          "file": "│   │       Crystal Christmas.webp"
         },
         {
           "id": "christmas_cute_snowman",
-          "title": "Cute Snowman",
-          "file": "Cute Snowman.webp"
+          "title": "│   │       Cute Snowman",
+          "file": "│   │       Cute Snowman.webp"
         },
         {
-          "id": "christmas_emerald_gold",
-          "title": "Emerald & Gold",
-          "file": "Emerald & Gold.webp"
+          "id": "christmas_emerald_and_gold",
+          "title": "│   │       Emerald & Gold",
+          "file": "│   │       Emerald & Gold.webp"
+        }
+      ]
+    },
+    {
+      "id": "birthday_glam",
+      "title": "Birthday Glam",
+      "folder": "Holidays & Celebrations/Birthday Glam",
+      "artworks": [
+        {
+          "id": "birthday_glam_balloons_and_bows_birthday_glam",
+          "title": "│   │       Balloons and Bows Birthday Glam",
+          "file": "│   │       Balloons and Bows Birthday Glam.webp"
         },
         {
-          "id": "christmas_evergreen_luxury",
-          "title": "Evergreen Luxury",
-          "file": "Evergreen Luxury.webp"
+          "id": "birthday_glam_birthday_bloom_luxe_floral_nail",
+          "title": "│   │       Birthday Bloom Luxe Floral Nail",
+          "file": "│   │       Birthday Bloom Luxe Floral Nail.webp"
         },
         {
-          "id": "christmas_frosted_winter",
-          "title": "Frosted Winter",
-          "file": "Frosted Winter.webp"
+          "id": "birthday_glam_birthday_cake_couture_nails",
+          "title": "│   │       Birthday Cake Couture Nails",
+          "file": "│   │       Birthday Cake Couture Nails.webp"
         },
         {
-          "id": "christmas_gingerbread_glam",
-          "title": "Gingerbread Glam",
-          "file": "Gingerbread Glam.webp"
+          "id": "birthday_glam_birthday_diamond_luxe_nail",
+          "title": "│   │       Birthday Diamond Luxe Nail",
+          "file": "│   │       Birthday Diamond Luxe Nail.webp"
         },
         {
-          "id": "christmas_golden_bells",
-          "title": "Golden Bells",
-          "file": "Golden Bells.webp"
+          "id": "birthday_glam_birthday_queen_glamour_manicure",
+          "title": "│   │       Birthday Queen Glamour Manicure",
+          "file": "│   │       Birthday Queen Glamour Manicure.webp"
         },
         {
-          "id": "christmas_holiday_party_glam",
-          "title": "Holiday Party Glam",
-          "file": "Holiday Party Glam.webp"
+          "id": "birthday_glam_birthday_stardust_nail_glam",
+          "title": "│   │       Birthday Stardust Nail Glam",
+          "file": "│   │       Birthday Stardust Nail Glam.webp"
         },
         {
-          "id": "christmas_midnight",
-          "title": "Midnight Christmas",
-          "file": "Midnight Christmas.webp"
+          "id": "birthday_glam_champagne_glow_nail",
+          "title": "│   │       Champagne Glow Nail",
+          "file": "│   │       Champagne Glow Nail.webp"
         },
         {
-          "id": "christmas_peppermint",
-          "title": "Peppermint Candy",
-          "file": "Peppermint Candy.webp"
+          "id": "birthday_glam_disco_birthday_glam_nails",
+          "title": "│   │       Disco Birthday Glam Nails",
+          "file": "│   │       Disco Birthday Glam Nails.webp"
         },
         {
-          "id": "christmas_red_velvet_gold",
-          "title": "Red Velvet & Gold",
-          "file": "Red Velvet & Gold.webp"
+          "id": "birthday_glam_gift_box_glam_nailora",
+          "title": "│   │       Gift Box Glam Nailora",
+          "file": "│   │       Gift Box Glam Nailora.webp"
+        }
+      ]
+    },
+    {
+      "id": "easter_nails",
+      "title": "Easter Nails",
+      "folder": "Holidays & Celebrations/Easter Nails",
+      "artworks": [
+        {
+          "id": "easter_nails_carrot_garden_easter_nail",
+          "title": "│   │       Carrot Garden Easter Nail",
+          "file": "│   │       Carrot Garden Easter Nail.webp"
         },
         {
-          "id": "christmas_reindeer_romance",
-          "title": "Reindeer Romance",
-          "file": "Reindeer Romance.webp"
+          "id": "easter_nails_easter_daisy_garden_nail",
+          "title": "│   │       Easter Daisy Garden Nail",
+          "file": "│   │       Easter Daisy Garden Nail.webp"
         },
         {
-          "id": "christmas_royal",
-          "title": "Royal Christmas",
-          "file": "Royal Christmas.webp"
+          "id": "easter_nails_easter_pearl_elegance_nail",
+          "title": "│   │       Easter Pearl Elegance Nail",
+          "file": "│   │       Easter Pearl Elegance Nail.webp"
         },
         {
-          "id": "christmas_ruby",
-          "title": "Ruby Christmas",
-          "file": "Ruby Christmas.webp"
+          "id": "easter_nails_glossy_pastel_easter_egg_nails",
+          "title": "│   │       Glossy Pastel Easter Egg Nails",
+          "file": "│   │       Glossy Pastel Easter Egg Nails.webp"
         },
         {
-          "id": "christmas_santa_glam",
-          "title": "Santa Glam",
-          "file": "Santa Glam.webp"
+          "id": "easter_nails_golden_easter_nest_nail",
+          "title": "│   │       Golden Easter Nest Nail",
+          "file": "│   │       Golden Easter Nest Nail.webp"
         },
         {
-          "id": "christmas_white_christmas_saint",
-          "title": "White Christmas Saint",
-          "file": "White Christmas saint.webp"
+          "id": "easter_nails_lavender_easter_nail",
+          "title": "│   │       Lavender Easter Nail",
+          "file": "│   │       Lavender Easter Nail.webp"
         },
         {
-          "id": "christmas_white_christmas",
-          "title": "White Christmas",
-          "file": "White Christmas.webp"
+          "id": "easter_nails_pastel_butterfly_garden_nails",
+          "title": "│   │       Pastel Butterfly Garden Nails",
+          "file": "│   │       Pastel Butterfly Garden Nails.webp"
         },
         {
-          "id": "christmas_winter_snowflakes",
-          "title": "Winter Snowflakes",
-          "file": "Winter Snowflakes.webp"
+          "id": "easter_nails_pastel_easter_bunny_nail",
+          "title": "│   │       Pastel Easter Bunny Nail",
+          "file": "│   │       Pastel Easter Bunny Nail.webp"
+        },
+        {
+          "id": "easter_nails_pastel_meadow_floral_easter_nails",
+          "title": "│   │       Pastel Meadow Floral Easter Nails",
+          "file": "│   │       Pastel Meadow Floral Easter Nails.webp"
+        },
+        {
+          "id": "easter_nails_spring_bloom_easter_nails",
+          "title": "│   │       Spring Bloom Easter Nails",
+          "file": "│   │       Spring Bloom Easter Nails.webp"
         }
       ]
     },
     {
       "id": "halloween",
       "title": "Halloween Nails",
-      "folder": "Halloween Nails",
+      "folder": "Holidays & Celebrations/Halloween Nails",
       "artworks": [
         {
-          "id": "halloween_autumn",
-          "title": "Autumn Halloween",
-          "file": "Autumn Halloween.webp"
+          "id": "halloween_autumn_halloween",
+          "title": "│   │       Autumn Halloween",
+          "file": "│   │       Autumn Halloween.webp"
         },
         {
-          "id": "halloween_elegant_dark",
-          "title": "Elegant Dark Halloween Nails",
-          "file": "Elegant Dark Halloween Nails.webp"
+          "id": "halloween_elegant_dark_halloween_nails",
+          "title": "│   │       Elegant Dark Halloween Nails",
+          "file": "│   │       Elegant Dark Halloween Nails.webp"
         },
         {
-          "id": "halloween_glamorous_ghost",
-          "title": "Glamorous Halloween Ghost Nail Art",
-          "file": "Glamorous Halloween Ghost Nail Art.webp"
+          "id": "halloween_glamorous_halloween_ghost_nail_art",
+          "title": "│   │       Glamorous Halloween Ghost Nail Art",
+          "file": "│   │       Glamorous Halloween Ghost Nail Art.webp"
         },
         {
-          "id": "halloween_glamorous_nail_art",
-          "title": "Glamorous Halloween Nail Art",
-          "file": "Glamorous Halloween Nail Art.webp"
+          "id": "halloween_glamorous_halloween_nail_art",
+          "title": "│   │       Glamorous Halloween Nail Art ",
+          "file": "│   │       Glamorous Halloween Nail Art .webp"
         },
         {
-          "id": "halloween_glamorous_nail_art_ad",
-          "title": "Glamorous Halloween Nail Art Ad",
-          "file": "Glamorous Halloween Nail Art Ad.webp"
+          "id": "halloween_glamorous_halloween_nail_art_ad",
+          "title": "│   │       Glamorous Halloween Nail Art Ad",
+          "file": "│   │       Glamorous Halloween Nail Art Ad.webp"
         },
         {
-          "id": "halloween_glamorous_nail_art_showcase",
-          "title": "Glamorous Halloween Nail Art Showcase",
-          "file": "Glamorous Halloween Nail Art Showcase.webp"
+          "id": "halloween_gothic_gold_halloween_nail_elegance",
+          "title": "│   │       Gothic Gold Halloween Nail Elegance",
+          "file": "│   │       Gothic Gold Halloween Nail Elegance.webp"
         },
         {
-          "id": "halloween_gothic_gold_elegance",
-          "title": "Gothic Gold Halloween Nail Elegance",
-          "file": "Gothic Gold Halloween Nail Elegance.webp"
+          "id": "halloween_gothic_halloween_nail_elegance",
+          "title": "│   │       Gothic Halloween Nail Elegance",
+          "file": "│   │       Gothic Halloween Nail Elegance.webp"
         },
         {
-          "id": "halloween_gothic_elegance",
-          "title": "Gothic Halloween Nail Elegance",
-          "file": "Gothic Halloween Nail Elegance.webp"
+          "id": "halloween_gothic_halloween_nailora",
+          "title": "│   │       Gothic Halloween Nailora",
+          "file": "│   │       Gothic Halloween Nailora.webp"
         },
         {
-          "id": "halloween_gothic_nailora",
-          "title": "Gothic Halloween Nailora",
-          "file": "Gothic Halloween Nailora.webp"
-        },
-        {
-          "id": "halloween_gothic",
-          "title": "Gothic Halloween",
-          "file": "Gothic Halloween.webp"
-        },
-        {
-          "id": "halloween_gothic_moonlit",
-          "title": "Gothic Moonlit Halloween",
-          "file": "Gothic Moonlit Halloween.webp"
-        },
-        {
-          "id": "halloween_gothic_vampire_glam",
-          "title": "Gothic Vampire Glam Nail Art",
-          "file": "Gothic Vampire Glam Nail Art.webp"
-        },
-        {
-          "id": "halloween_haunted",
-          "title": "Haunted Halloween Nail Art",
-          "file": "Haunted Halloween Nail Art.webp"
-        },
-        {
-          "id": "halloween_mystical_purple",
-          "title": "Mystical Purple Halloween Nails",
-          "file": "Mystical Purple Halloween Nails.webp"
-        },
-        {
-          "id": "halloween_neon_witchcraft",
-          "title": "Neon Witchcraft Halloween Nails",
-          "file": "Neon Witchcraft Halloween Nails.webp"
-        },
-        {
-          "id": "halloween_spooky_advertisement",
-          "title": "Spooky Halloween Nail Art Advertisement",
-          "file": "Spooky Halloween Nail Art Advertisement.webp"
-        },
-        {
-          "id": "halloween_spooky_editorial",
-          "title": "Spooky Halloween Nail Art Editorial",
-          "file": "Spooky Halloween Nail Art Editorial.webp"
-        },
-        {
-          "id": "halloween_spooky",
-          "title": "Spooky Halloween Nail Art",
-          "file": "Spooky Halloween Nail Art.webp"
-        },
-        {
-          "id": "halloween_spooky_chic",
-          "title": "Spooky-Chic Halloween Nail Art",
-          "file": "Spooky-Chic Halloween Nail Art.webp"
-        },
-        {
-          "id": "halloween_vampire_chrome",
-          "title": "Vampire Chrome Halloween",
-          "file": "Vampire Chrome Halloween.webp"
+          "id": "halloween_gothic_halloween",
+          "title": "│   │       Gothic Halloween",
+          "file": "│   │       Gothic Halloween.webp"
         }
       ]
     },
     {
-      "id": "thanksgiving",
-      "title": "Thanksgiving Nails",
-      "folder": "Thanksgiving Nails",
-      "artworks": []
+      "id": "new_year_glam",
+      "title": "New Year Glam",
+      "folder": "Holidays & Celebrations/New Year Glam",
+      "artworks": [
+        {
+          "id": "new_year_glam_after_midnight_celestial_nail_glam",
+          "title": "│   │       After Midnight Celestial Nail Glam",
+          "file": "│   │       After Midnight Celestial Nail Glam.webp"
+        },
+        {
+          "id": "new_year_glam_celestial_chrome_new_year_manicure",
+          "title": "│   │       Celestial Chrome New Year Manicure",
+          "file": "│   │       Celestial Chrome New Year Manicure.webp"
+        },
+        {
+          "id": "new_year_glam_celestial_new_year_galaxy_nails",
+          "title": "│   │       Celestial New Year Galaxy Nails",
+          "file": "│   │       Celestial New Year Galaxy Nails.webp"
+        },
+        {
+          "id": "new_year_glam_couture_gold_new_year_nails",
+          "title": "│   │       Couture Gold New Year Nails",
+          "file": "│   │       Couture Gold New Year Nails.webp"
+        },
+        {
+          "id": "new_year_glam_disco_chrome_new_year_nails",
+          "title": "│   │       Disco Chrome New Year Nails",
+          "file": "│   │       Disco Chrome New Year Nails.webp"
+        },
+        {
+          "id": "new_year_glam_glamorous_new_year_champagne_manicure",
+          "title": "│   │       Glamorous New Year Champagne Manicure",
+          "file": "│   │       Glamorous New Year Champagne Manicure.webp"
+        },
+        {
+          "id": "new_year_glam_golden_celebration_and_silver_starlet",
+          "title": "│   │       Golden Celebration & Silver Starlet",
+          "file": "│   │       Golden Celebration & Silver Starlet.webp"
+        },
+        {
+          "id": "new_year_glam_midnight_glamour_crystal_manicure",
+          "title": "│   │       Midnight Glamour Crystal Manicure",
+          "file": "│   │       Midnight Glamour Crystal Manicure.webp"
+        },
+        {
+          "id": "new_year_glam_new_year_firework_glamour_nails",
+          "title": "│   │       New Year Firework Glamour Nails",
+          "file": "│   │       New Year Firework Glamour Nails.webp"
+        },
+        {
+          "id": "new_year_glam_new_year_royalty_nail",
+          "title": "│   │       New Year Royalty Nail",
+          "file": "│   │       New Year Royalty Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "valentine_s_nails",
+      "title": "Valentine's Nails",
+      "folder": "Holidays & Celebrations/Valentine's Nails",
+      "artworks": [
+        {
+          "id": "valentine_s_nails_glamorous_pink_pearl_nail",
+          "title": "│           Glamorous Pink Pearl Nail",
+          "file": "│           Glamorous Pink Pearl Nail.webp"
+        },
+        {
+          "id": "valentine_s_nails_glamorous_ruby_heart_nail",
+          "title": "│           Glamorous Ruby Heart Nail",
+          "file": "│           Glamorous Ruby Heart Nail.webp"
+        },
+        {
+          "id": "valentine_s_nails_luxurious_burgundy_gold_heart_manicure",
+          "title": "│           Luxurious Burgundy Gold Heart Manicure",
+          "file": "│           Luxurious Burgundy Gold Heart Manicure.webp"
+        },
+        {
+          "id": "valentine_s_nails_romantic_love_letter_manicure",
+          "title": "│           Romantic Love Letter Manicure",
+          "file": "│           Romantic Love Letter Manicure.webp"
+        },
+        {
+          "id": "valentine_s_nails_romantic_pink_heart_nail",
+          "title": "│           Romantic Pink Heart Nail",
+          "file": "│           Romantic Pink Heart Nail.webp"
+        },
+        {
+          "id": "valentine_s_nails_romantic_valentine_s_heart_nail",
+          "title": "│           Romantic Valentine’s Heart Nail",
+          "file": "│           Romantic Valentine’s Heart Nail.webp"
+        },
+        {
+          "id": "valentine_s_nails_rose_gold_cupid_nail",
+          "title": "│           Rose-Gold Cupid Nail",
+          "file": "│           Rose-Gold Cupid Nail.webp"
+        },
+        {
+          "id": "valentine_s_nails_strawberry_romance_nail",
+          "title": "│           Strawberry Romance Nail",
+          "file": "│           Strawberry Romance Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "anniversary_nails",
+      "title": "Anniversary Nails",
+      "folder": "Love & Romance/Anniversary Nails",
+      "artworks": [
+        {
+          "id": "anniversary_nails_candlelit_romance",
+          "title": "│   │       Candlelit Romance",
+          "file": "│   │       Candlelit Romance.webp"
+        },
+        {
+          "id": "anniversary_nails_champagne_glow_anniversary",
+          "title": "│   │       Champagne Glow Anniversary",
+          "file": "│   │       Champagne Glow Anniversary.webp"
+        },
+        {
+          "id": "anniversary_nails_eternal_rose_romance",
+          "title": "│   │       Eternal Rose Romance",
+          "file": "│   │       Eternal Rose Romance.webp"
+        },
+        {
+          "id": "anniversary_nails_forever_and_always_romantic",
+          "title": "│   │       Forever & Always Romantic",
+          "file": "│   │       Forever & Always Romantic.webp"
+        },
+        {
+          "id": "anniversary_nails_forever_in_bloom",
+          "title": "│   │       Forever in Bloom",
+          "file": "│   │       Forever in Bloom.webp"
+        },
+        {
+          "id": "anniversary_nails_golden_vows_bridal",
+          "title": "│   │       Golden Vows Bridal",
+          "file": "│   │       Golden Vows Bridal.webp"
+        },
+        {
+          "id": "anniversary_nails_love_in_diamonds",
+          "title": "│   │       Love in Diamonds",
+          "file": "│   │       Love in Diamonds.webp"
+        },
+        {
+          "id": "anniversary_nails_our_love_story",
+          "title": "│   │       Our Love Story",
+          "file": "│   │       Our Love Story.webp"
+        },
+        {
+          "id": "anniversary_nails_romantic_anniversary",
+          "title": "│   │       Romantic Anniversary",
+          "file": "│   │       Romantic Anniversary.webp"
+        },
+        {
+          "id": "anniversary_nails_starlit_anniversary",
+          "title": "│   │       Starlit Anniversary",
+          "file": "│   │       Starlit Anniversary.webp"
+        }
+      ]
+    },
+    {
+      "id": "bridal_nails",
+      "title": "Bridal Nails",
+      "folder": "Love & Romance/Bridal Nails",
+      "artworks": [
+        {
+          "id": "bridal_nails_blue_bridal_nails",
+          "title": "│           Blue Bridal Nails",
+          "file": "│           Blue Bridal Nails.webp"
+        },
+        {
+          "id": "bridal_nails_bridal_pearl_couture_nails",
+          "title": "│           Bridal Pearl Couture Nails",
+          "file": "│           Bridal Pearl Couture Nails.webp"
+        },
+        {
+          "id": "bridal_nails_bridal_rose_romance_nail",
+          "title": "│           Bridal Rose Romance Nail",
+          "file": "│           Bridal Rose Romance Nail.webp"
+        },
+        {
+          "id": "bridal_nails_champagne_wedding_luxe_nails",
+          "title": "│           Champagne Wedding Luxe Nails",
+          "file": "│           Champagne Wedding Luxe Nails.webp"
+        },
+        {
+          "id": "bridal_nails_crystal_cathedral_bridal_nails",
+          "title": "│           Crystal Cathedral Bridal Nails",
+          "file": "│           Crystal Cathedral Bridal Nails.webp"
+        },
+        {
+          "id": "bridal_nails_diamond_veil_bridal_nails",
+          "title": "│           Diamond Veil Bridal Nails",
+          "file": "│           Diamond Veil Bridal Nails.webp"
+        },
+        {
+          "id": "bridal_nails_garden_bride_floral_nail_elegance",
+          "title": "│           Garden Bride Floral Nail Elegance",
+          "file": "│           Garden Bride Floral Nail Elegance.webp"
+        },
+        {
+          "id": "bridal_nails_lace_and_ivory_bridal_nails",
+          "title": "│           Lace and Ivory Bridal Nails",
+          "file": "│           Lace and Ivory Bridal Nails.webp"
+        },
+        {
+          "id": "bridal_nails_romantic_floral_nail",
+          "title": "│           Romantic Floral Nail",
+          "file": "│           Romantic Floral Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn_nails",
+      "title": "Autumn Nails",
+      "folder": "Seasonal Collections/Autumn Nails",
+      "artworks": [
+        {
+          "id": "autumn_nails_autumn_leaf_glamour_nails",
+          "title": "│   │       Autumn Leaf Glamour Nails",
+          "file": "│   │       Autumn Leaf Glamour Nails.webp"
+        },
+        {
+          "id": "autumn_nails_autumn_royalty_jewel_toned_nail",
+          "title": "│   │       Autumn Royalty Jewel-Toned Nail",
+          "file": "│   │       Autumn Royalty Jewel-Toned Nail.webp"
+        },
+        {
+          "id": "autumn_nails_burnt_orange_autumn_nail",
+          "title": "│   │       Burnt Orange Autumn Nail",
+          "file": "│   │       Burnt Orange Autumn Nail.webp"
+        },
+        {
+          "id": "autumn_nails_candlelit_autumn_nail",
+          "title": "│   │       Candlelit Autumn Nail",
+          "file": "│   │       Candlelit Autumn Nail.webp"
+        },
+        {
+          "id": "autumn_nails_cozy_autumn_apple_orchard_manicure",
+          "title": "│   │       Cozy Autumn Apple Orchard Manicure",
+          "file": "│   │       Cozy Autumn Apple Orchard Manicure.webp"
+        },
+        {
+          "id": "autumn_nails_glamorous_burgundy_harvest_nail",
+          "title": "│   │       Glamorous Burgundy Harvest Nail",
+          "file": "│   │       Glamorous Burgundy Harvest Nail.webp"
+        },
+        {
+          "id": "autumn_nails_glossy_chestnut_caramel_autumn_nails",
+          "title": "│   │       Glossy Chestnut Caramel Autumn Nails",
+          "file": "│   │       Glossy Chestnut Caramel Autumn Nails.webp"
+        },
+        {
+          "id": "autumn_nails_golden_harvest_glamour_manicure",
+          "title": "│   │       Golden Harvest Glamour Manicure",
+          "file": "│   │       Golden Harvest Glamour Manicure.webp"
+        },
+        {
+          "id": "autumn_nails_maple_leaf_luxe_manicure",
+          "title": "│   │       Maple Leaf Luxe Manicure",
+          "file": "│   │       Maple Leaf Luxe Manicure.webp"
+        },
+        {
+          "id": "autumn_nails_pumpkin_spice_autumn_nail",
+          "title": "│   │       Pumpkin Spice Autumn Nail",
+          "file": "│   │       Pumpkin Spice Autumn Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "spring_nails",
+      "title": "Spring Nails",
+      "folder": "Seasonal Collections/Spring Nails",
+      "artworks": [
+        {
+          "id": "spring_nails_botanical_elegance_nail",
+          "title": "│   │       Botanical Elegance Nail",
+          "file": "│   │       Botanical Elegance Nail.webp"
+        },
+        {
+          "id": "spring_nails_butterfly_blossom_spring_nail",
+          "title": "│   │       Butterfly Blossom Spring Nail",
+          "file": "│   │       Butterfly Blossom Spring Nail.webp"
+        },
+        {
+          "id": "spring_nails_cherry_blossom_luxe_manicure",
+          "title": "│   │       Cherry Blossom Luxe Manicure",
+          "file": "│   │       Cherry Blossom Luxe Manicure.webp"
+        },
+        {
+          "id": "spring_nails_golden_daisy_meadow_nails",
+          "title": "│   │       Golden Daisy Meadow Nails",
+          "file": "│   │       Golden Daisy Meadow Nails.webp"
+        },
+        {
+          "id": "spring_nails_lavender_bloom_nail",
+          "title": "│   │       Lavender Bloom Nail",
+          "file": "│   │       Lavender Bloom Nail.webp"
+        },
+        {
+          "id": "spring_nails_peony_romance_nail",
+          "title": "│   │       Peony Romance Nail",
+          "file": "│   │       Peony Romance Nail.webp"
+        },
+        {
+          "id": "spring_nails_spring_floral_couture_nails",
+          "title": "│   │       Spring Floral Couture Nails",
+          "file": "│   │       Spring Floral Couture Nails.webp"
+        },
+        {
+          "id": "spring_nails_spring_rose_garden_nails",
+          "title": "│   │       Spring Rose Garden Nails",
+          "file": "│   │       Spring Rose Garden Nails.webp"
+        },
+        {
+          "id": "spring_nails_tulip_garden_couture_nails",
+          "title": "│   │       Tulip Garden Couture Nails",
+          "file": "│   │       Tulip Garden Couture Nails.webp"
+        },
+        {
+          "id": "spring_nails_wildflower_meadow_nail",
+          "title": "│   │       Wildflower Meadow Nail",
+          "file": "│   │       Wildflower Meadow Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "summer_nails",
+      "title": "Summer Nails",
+      "folder": "Seasonal Collections/Summer Nails",
+      "artworks": [
+        {
+          "id": "summer_nails_azure_ocean_luxe_nail",
+          "title": "│   │       Azure Ocean Luxe Nail",
+          "file": "│   │       Azure Ocean Luxe Nail.webp"
+        },
+        {
+          "id": "summer_nails_citrus_glow_3d_nail",
+          "title": "│   │       Citrus Glow 3D Nail",
+          "file": "│   │       Citrus Glow 3D Nail.webp"
+        },
+        {
+          "id": "summer_nails_golden_sunset_tropical_nail",
+          "title": "│   │       Golden Sunset Tropical Nail",
+          "file": "│   │       Golden Sunset Tropical Nail.webp"
+        },
+        {
+          "id": "summer_nails_lemon_blossom_nail",
+          "title": "│   │       Lemon Blossom Nail",
+          "file": "│   │       Lemon Blossom Nail.webp"
+        },
+        {
+          "id": "summer_nails_pearl_seashell_luxury_nail",
+          "title": "│   │       Pearl Seashell Luxury Nail",
+          "file": "│   │       Pearl Seashell Luxury Nail.webp"
+        },
+        {
+          "id": "summer_nails_strawberry_summer_nail",
+          "title": "│   │       Strawberry Summer Nail",
+          "file": "│   │       Strawberry Summer Nail.webp"
+        },
+        {
+          "id": "summer_nails_sunlit_butterfly_nail",
+          "title": "│   │       Sunlit Butterfly Nail",
+          "file": "│   │       Sunlit Butterfly Nail.webp"
+        },
+        {
+          "id": "summer_nails_tropical_hibiscus_nail",
+          "title": "│   │       Tropical Hibiscus Nail",
+          "file": "│   │       Tropical Hibiscus Nail.webp"
+        },
+        {
+          "id": "summer_nails_tropical_sunset_nail",
+          "title": "│   │       Tropical Sunset Nail",
+          "file": "│   │       Tropical Sunset Nail.webp"
+        },
+        {
+          "id": "summer_nails_watermelon_couture_nail",
+          "title": "│   │       Watermelon Couture Nail",
+          "file": "│   │       Watermelon Couture Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "winter_nails",
+      "title": "Winter Nails",
+      "folder": "Seasonal Collections/Winter Nails",
+      "artworks": [
+        {
+          "id": "winter_nails_cozy_winter_glow_nail",
+          "title": "│           Cozy Winter Glow Nail",
+          "file": "│           Cozy Winter Glow Nail.webp"
+        },
+        {
+          "id": "winter_nails_diamond_snowfall_winter_manicure",
+          "title": "│           Diamond Snowfall Winter Manicure",
+          "file": "│           Diamond Snowfall Winter Manicure.webp"
+        },
+        {
+          "id": "winter_nails_evergreen_frost_holiday_manicure",
+          "title": "│           Evergreen Frost Holiday Manicure",
+          "file": "│           Evergreen Frost Holiday Manicure.webp"
+        },
+        {
+          "id": "winter_nails_frosted_crystal_luxe_nails",
+          "title": "│           Frosted Crystal Luxe Nails",
+          "file": "│           Frosted Crystal Luxe Nails.webp"
+        },
+        {
+          "id": "winter_nails_glacial_blue_crystal_snowflake_manicure",
+          "title": "│           Glacial Blue Crystal Snowflake Manicure",
+          "file": "│           Glacial Blue Crystal Snowflake Manicure.webp"
+        },
+        {
+          "id": "winter_nails_ice_queen_couture_nails",
+          "title": "│           Ice Queen Couture Nails",
+          "file": "│           Ice Queen Couture Nails.webp"
+        },
+        {
+          "id": "winter_nails_snowfall_romance_winter_nails",
+          "title": "│           Snowfall Romance Winter Nails",
+          "file": "│           Snowfall Romance Winter Nails.webp"
+        },
+        {
+          "id": "winter_nails_winter_forest_luxe_manicure",
+          "title": "│           Winter Forest Luxe Manicure",
+          "file": "│           Winter Forest Luxe Manicure.webp"
+        },
+        {
+          "id": "winter_nails_winter_pearl_elegance_nail",
+          "title": "│           Winter Pearl Elegance Nail",
+          "file": "│           Winter Pearl Elegance Nail.webp"
+        },
+        {
+          "id": "winter_nails_winter_royalty_nail",
+          "title": "│           Winter Royalty Nail",
+          "file": "│           Winter Royalty Nail.webp"
+        }
+      ]
+    },
+    {
+      "id": "black_friday_glam",
+      "title": "Black Friday Glam",
+      "folder": "Shopping/Black Friday Glam",
+      "artworks": [
+        {
+          "id": "black_friday_glam_after_hours_glam",
+          "title": "│           After-Hours Glam",
+          "file": "│           After-Hours Glam.webp"
+        },
+        {
+          "id": "black_friday_glam_black_friday_luxe",
+          "title": "│           Black Friday Luxe",
+          "file": "│           Black Friday Luxe.webp"
+        },
+        {
+          "id": "black_friday_glam_black_friday_royalty",
+          "title": "│           Black Friday Royalty",
+          "file": "│           Black Friday Royalty.webp"
+        },
+        {
+          "id": "black_friday_glam_chrome_friday",
+          "title": "│           Chrome Friday",
+          "file": "│           Chrome Friday.webp"
+        },
+        {
+          "id": "black_friday_glam_deal_in_style",
+          "title": "│           Deal in Style",
+          "file": "│           Deal in Style.webp"
+        },
+        {
+          "id": "black_friday_glam_golden_rush",
+          "title": "│           Golden Rush",
+          "file": "│           Golden Rush.webp"
+        },
+        {
+          "id": "black_friday_glam_luxury_designer",
+          "title": "│           Luxury Designer",
+          "file": "│           Luxury Designer.webp"
+        },
+        {
+          "id": "black_friday_glam_midnight_markdown",
+          "title": "│           Midnight Markdown",
+          "file": "│           Midnight Markdown.webp"
+        },
+        {
+          "id": "black_friday_glam_shopping_queen",
+          "title": "│           Shopping Queen",
+          "file": "│           Shopping Queen.webp"
+        },
+        {
+          "id": "black_friday_glam_ultimate_glam_sale",
+          "title": "│           Ultimate Glam Sale",
+          "file": "│           Ultimate Glam Sale.webp"
+        }
+      ]
+    },
+    {
+      "id": "bridal",
+      "title": "Bridal",
+      "folder": "STYLE/Bridal",
+      "artworks": [
+        {
+          "id": "bridal_blue_bridal_french_nails",
+          "title": "│       Blue Bridal French Nails",
+          "file": "│       Blue Bridal French Nails.webp"
+        },
+        {
+          "id": "bridal_blue_ribbon_bridal_french_manicure",
+          "title": "│       Blue Ribbon Bridal French Manicure",
+          "file": "│       Blue Ribbon Bridal French Manicure.webp"
+        },
+        {
+          "id": "bridal_bridal_bow_couture_nail",
+          "title": "│       Bridal Bow Couture Nail",
+          "file": "│       Bridal Bow Couture Nail.webp"
+        },
+        {
+          "id": "bridal_bridal_crystal_cuticle_nail",
+          "title": "│       Bridal Crystal Cuticle Nail",
+          "file": "│       Bridal Crystal Cuticle Nail.webp"
+        },
+        {
+          "id": "bridal_champagne_veil_bridal_nails",
+          "title": "│       Champagne Veil Bridal Nails",
+          "file": "│       Champagne Veil Bridal Nails.webp"
+        },
+        {
+          "id": "bridal_crystal_cathedral_bridal_french_manicure",
+          "title": "│       Crystal Cathedral Bridal French Manicure",
+          "file": "│       Crystal Cathedral Bridal French Manicure.webp"
+        },
+        {
+          "id": "bridal_lace_french_bridal_nail",
+          "title": "│       Lace French Bridal Nail",
+          "file": "│       Lace French Bridal Nail.webp"
+        },
+        {
+          "id": "bridal_pearl_blossom_bridal_nail",
+          "title": "│       Pearl Blossom Bridal Nail",
+          "file": "│       Pearl Blossom Bridal Nail.webp"
+        },
+        {
+          "id": "bridal_pearl_veil_french_bridal_nails",
+          "title": "│       Pearl Veil French Bridal Nails",
+          "file": "│       Pearl Veil French Bridal Nails.webp"
+        },
+        {
+          "id": "bridal_royal_bride_french_nailora",
+          "title": "│       Royal Bride French Nailora",
+          "file": "│       Royal Bride French Nailora.webp"
+        }
+      ]
+    },
+    {
+      "id": "chrome_and_metallic",
+      "title": "Chrome & Metallic",
+      "folder": "STYLE/Chrome & Metallic",
+      "artworks": [
+        {
+          "id": "chrome_and_metallic_black_chrome_edge_nail",
+          "title": "│       Black Chrome Edge Nail",
+          "file": "│       Black Chrome Edge Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_champagne_chrome_drip_nail",
+          "title": "│       Champagne Chrome Drip Nail",
+          "file": "│       Champagne Chrome Drip Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_chrome_half_moon_nail",
+          "title": "│       Chrome Half-Moon Nail",
+          "file": "│       Chrome Half-Moon Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_liquid_chrome_waves_nail",
+          "title": "│       Liquid Chrome Waves Nail",
+          "file": "│       Liquid Chrome Waves Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_liquid_mercury_chrome_nails",
+          "title": "│       Liquid Mercury Chrome Nails",
+          "file": "│       Liquid Mercury Chrome Nails.webp"
+        },
+        {
+          "id": "chrome_and_metallic_mirror_silver_french_nail",
+          "title": "│       Mirror Silver French Nail",
+          "file": "│       Mirror Silver French Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_molten_gold_tips_nail",
+          "title": "│       Molten Gold Tips Nail",
+          "file": "│       Molten Gold Tips Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_molten_silver_sculpted_nail",
+          "title": "│       Molten Silver Sculpted Nail",
+          "file": "│       Molten Silver Sculpted Nail.webp"
+        },
+        {
+          "id": "chrome_and_metallic_nailora_chrome_aura_beauty",
+          "title": "│       Nailora Chrome Aura Beauty",
+          "file": "│       Nailora Chrome Aura Beauty.webp"
+        },
+        {
+          "id": "chrome_and_metallic_rose_gold_chrome_nailora",
+          "title": "│       Rose Gold Chrome Nailora",
+          "file": "│       Rose Gold Chrome Nailora.webp"
+        }
+      ]
+    },
+    {
+      "id": "french_elegance",
+      "title": "French Elegance",
+      "folder": "STYLE/French Elegance",
+      "artworks": [
+        {
+          "id": "french_elegance_baroque_gold_french_nail",
+          "title": "│       Baroque Gold French Nail",
+          "file": "│       Baroque Gold French Nail.webp"
+        },
+        {
+          "id": "french_elegance_bow_tip_french_elegance",
+          "title": "│       Bow-Tip French Elegance",
+          "file": "│       Bow-Tip French Elegance.webp"
+        },
+        {
+          "id": "french_elegance_champagne_sculpted_french_elegance",
+          "title": "│       Champagne Sculpted French Elegance",
+          "file": "│       Champagne Sculpted French Elegance.webp"
+        },
+        {
+          "id": "french_elegance_crystal_cascade_french_nails",
+          "title": "│       Crystal Cascade French Nails",
+          "file": "│       Crystal Cascade French Nails.webp"
+        },
+        {
+          "id": "french_elegance_double_line_french_elegance",
+          "title": "│       Double-Line French Elegance",
+          "file": "│       Double-Line French Elegance.webp"
+        },
+        {
+          "id": "french_elegance_floral_corner_french_nail",
+          "title": "│       Floral Corner French Nail",
+          "file": "│       Floral Corner French Nail.webp"
+        },
+        {
+          "id": "french_elegance_gold_edged_french_nail",
+          "title": "│       Gold-Edged French Nail",
+          "file": "│       Gold-Edged French Nail.webp"
+        },
+        {
+          "id": "french_elegance_inverted_pearl_french_nail",
+          "title": "│       Inverted Pearl French Nail",
+          "file": "│       Inverted Pearl French Nail.webp"
+        },
+        {
+          "id": "french_elegance_mirror_silver_french_nail",
+          "title": "│       Mirror Silver French Nail",
+          "file": "│       Mirror Silver French Nail.webp"
+        },
+        {
+          "id": "french_elegance_pearl_chrome_french_elegance",
+          "title": "│       Pearl Chrome French Elegance",
+          "file": "│       Pearl Chrome French Elegance.webp"
+        }
+      ]
+    },
+    {
+      "id": "soft_glam",
+      "title": "Soft Glam",
+      "folder": "STYLE/Soft Glam",
+      "artworks": [
+        {
+          "id": "soft_glam_blush_velvet_glam",
+          "title": "Blush Velvet Glam",
+          "file": "Blush Velvet Glam.webp"
+        },
+        {
+          "id": "soft_glam_cloud_nine_glam",
+          "title": "Cloud Nine Glam",
+          "file": "Cloud Nine Glam.webp"
+        },
+        {
+          "id": "soft_glam_crystal_blush",
+          "title": "Crystal Blush",
+          "file": "Crystal Blush.webp"
+        },
+        {
+          "id": "soft_glam_petal_kiss_soft_glam",
+          "title": "Petal Kiss Soft Glam",
+          "file": "Petal Kiss Soft Glam.webp"
+        },
+        {
+          "id": "soft_glam_pink_champagne_nail",
+          "title": "Pink Champagne Nail",
+          "file": "Pink Champagne Nail.webp"
+        },
+        {
+          "id": "soft_glam_ribbon_romance",
+          "title": "Ribbon Romance",
+          "file": "Ribbon Romance.webp"
+        },
+        {
+          "id": "soft_glam_rosewater_luxe",
+          "title": "Rosewater Luxe",
+          "file": "Rosewater Luxe.webp"
+        },
+        {
+          "id": "soft_glam_rose_glow_nail",
+          "title": "Rosé Glow Nail",
+          "file": "Rosé Glow Nail.webp"
+        },
+        {
+          "id": "soft_glam_satin_elegance",
+          "title": "Satin Elegance",
+          "file": "Satin Elegance.webp"
+        },
+        {
+          "id": "soft_glam_soft_glam_royalty",
+          "title": "Soft Glam Royalty",
+          "file": "Soft Glam Royalty.webp"
+        }
+      ]
     }
   ]
 }
